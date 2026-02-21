@@ -14,5 +14,6 @@
 ## 📬 Contact
 - 🔗LinkedIn: https://www.linkedin.com/in/ilya-kopkov/
 - 📧Email: ilyakopkovwork@gmail.com
+- 📞Whatsapp: [Ilya K.](https://wa.me/79833078879)
 - 💬Telegram: [@Up_n_fwd](https://t.me/Up_n_fwd)
 - 🌐Website: https://lio-kay.github.io/
