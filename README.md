@@ -1,17 +1,17 @@
 # Hi, I'm Ilya 👋
 ## Data Engineer building reliable data warehouses and pipelines
-📍 Based in Spain · Open to EU-based and remote contract roles
+📍 Based in Spain · Open to EU-based and remote B2B contract roles
  
 ## 🚀 What I focus on
-- PostgreSQL data warehouse design & performance at scale (400M+ row fact tables, partitioning, schema design)
-- Modern data engineering: dbt Core, Apache Airflow, medallion architecture (Bronze/Silver/Gold)
-- OLTP → DWH pipeline design for analytics and reporting
-- Async, event-driven backend integrations (RabbitMQ, retry/idempotency patterns)
-- AWS deployment for data pipelines and backend services
+- **High-Scale Data Warehousing:** PostgreSQL DWH architecture, schema optimization, and partitioning for 400M+ row fact tables.
+- **Modern ELT Platforms:** Orchestrating resilient dbt Core & Apache Airflow pipelines using medallion architecture (Bronze / Silver / Gold).
+- **Data Delivery & APIs:** Exposing analytical models and DWH metrics via high-performance FastAPI microservices and REST APIs.
+- **Infrastructure & Automation:** Provisioning cloud-native data pipelines on AWS using Terraform, Docker, and production-grade CI/CD practices.
+
 ## 🛠 Stack
-- Python · SQL · PostgreSQL
-- dbt (data build tool) · Apache Airflow · Amazon Web Services (AWS)
-- ETL Pipelines · Data Warehousing · Database Performance Tuning
+- Python · Amazon Web Services (AWS) · FastAPI
+- SQL/PostgreSQL · Apache Airflow · Docker
+- dbt (Data Build Tool) · Terraform · CI/CD & Git
 ## 📬 Contact
 - 🔗 LinkedIn: https://www.linkedin.com/in/ilya-kopkov/
 - 📧 Email: ilyakopkovwork@gmail.com
