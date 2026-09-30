@@ -1,18 +1,19 @@
 # Hi, I'm Ilia 👋
-## Data Engineer building reliable data warehouses and pipelines
-📍 Based in Spain · Open to EU-based and remote B2B contract roles
- 
-## 🚀 What I focus on
-- **High-Scale Data Warehousing:** PostgreSQL DWH architecture, schema optimization, and partitioning for 400M+ row fact tables.
-- **Modern ELT Platforms:** Orchestrating resilient dbt Core & Apache Airflow pipelines using medallion architecture (Bronze / Silver / Gold).
-- **Data Delivery & APIs:** Exposing analytical models and DWH metrics via high-performance FastAPI microservices and REST APIs.
-- **Infrastructure & Automation:** Provisioning cloud-native data pipelines on AWS using Terraform, Docker, and production-grade CI/CD practices.
+## Backend Engineer (Data Infrastructure & Python)
+📍 Based in Spain (EU) · Open to B2B Contract
+
+## 🚀 What I do
+- **Data Infrastructure & Services:** Building high-performance microservices, REST APIs (FastAPI), and webhooks to deliver metrics and analytical data out of PostgreSQL / DWH.
+- **ELT & Data Pipelines:** Designing robust, automated data pipelines and transformations using Python, dbt Core, and Apache Airflow.
+- **Production Engineering:** Writing clean, tested Python code, containerizing with Docker, and setting up fully automated CI/CD deployment pipelines on AWS (Terraform).
+- **Data Modeling & Storage:** Designing normalized schemas, partitioning strategy, and optimizing SQL queries for relational databases and data warehouses.
 
 ## 🛠 Stack
 - Python · Amazon Web Services (AWS) · FastAPI
-- SQL/PostgreSQL · Apache Airflow · Docker
-- dbt (Data Build Tool) · Terraform · CI/CD & Git
-- 
+- SQL/PostgreSQL · Apache Airflow · REST APIs
+- dbt (Data Build Tool) · Microservices · Docker
+- Data Modeling & DWH · Terraform · CI/CD & Git
+
 ## 📬 Contact
 - 🔗 LinkedIn: https://www.linkedin.com/in/ilia-kopkov/
 - 📧 Email: ilyakopkovwork@gmail.com
