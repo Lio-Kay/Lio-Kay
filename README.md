@@ -16,7 +16,7 @@
 ## 📬 Contact
 - 🔗 LinkedIn: https://www.linkedin.com/in/ilia-kopkov/
 - 📧 Email: ilyakopkovwork@gmail.com
-- 📞 WhatsApp: [Ilya K.](https://wa.me/34664307505)
+- 📞 WhatsApp: [Ilia K.](https://wa.me/34664307505)
 - 💬 Telegram: [@Up_n_fwd](https://t.me/Up_n_fwd)
 - 🌐 Website: https://lio-kay.github.io/
 - 📄 CV: [View on Google Drive](https://drive.google.com/file/d/1zULx1DXzTvTKFIctZ1Eq8Z9QIioHnjie/view?usp=sharing)
