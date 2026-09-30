@@ -1,4 +1,4 @@
-# Hi, I'm Ilya 👋
+# Hi, I'm Ilia 👋
 ## Data Engineer building reliable data warehouses and pipelines
 📍 Based in Spain · Open to EU-based and remote B2B contract roles
  
@@ -12,6 +12,7 @@
 - Python · Amazon Web Services (AWS) · FastAPI
 - SQL/PostgreSQL · Apache Airflow · Docker
 - dbt (Data Build Tool) · Terraform · CI/CD & Git
+- 
 ## 📬 Contact
 - 🔗 LinkedIn: https://www.linkedin.com/in/ilya-kopkov/
 - 📧 Email: ilyakopkovwork@gmail.com
